@@ -1,0 +1,78 @@
+{
+  "team": {
+    "name": "Real Madrid",
+    "url": "https://www.flashscore.in/team/real-madrid/W8mj7MDD/",
+    "slug": "real-madrid",
+    "team_id": "W8mj7MDD",
+    "country": "Spain"
+  },
+  "scraped_at": "2026-04-20T09:18:37.193651",
+  "total_matches": 5,
+  "matches": [
+    {
+      "league": "EUROPE: Champions League - Play Offs",
+      "datetime": "16.04. 00:30",
+      "home_team": "Bayern Munich",
+      "away_team": "Real Madrid",
+      "home_score": "4",
+      "away_score": "3",
+      "match_id": "zXC8QVx3",
+      "score": "4-3",
+      "total_goals": 7,
+      "result": "L",
+      "venue": "Away"
+    },
+    {
+      "league": "SPAIN: LaLiga",
+      "datetime": "11.04. 00:30",
+      "home_team": "Real Madrid",
+      "away_team": "Girona",
+      "home_score": "1",
+      "away_score": "1",
+      "match_id": "KES1xaf5",
+      "score": "1-1",
+      "total_goals": 2,
+      "result": "D",
+      "venue": "Home"
+    },
+    {
+      "league": "EUROPE: Champions League - Play Offs",
+      "datetime": "08.04. 00:30",
+      "home_team": "Real Madrid",
+      "away_team": "Bayern Munich",
+      "home_score": "1",
+      "away_score": "2",
+      "match_id": "8QKM2Spd",
+      "score": "1-2",
+      "total_goals": 3,
+      "result": "L",
+      "venue": "Home"
+    },
+    {
+      "league": "SPAIN: LaLiga",
+      "datetime": "04.04. 19:45",
+      "home_team": "Mallorca",
+      "away_team": "Real Madrid",
+      "home_score": "2",
+      "away_score": "1",
+      "match_id": "0fPtXr1S",
+      "score": "2-1",
+      "total_goals": 3,
+      "result": "L",
+      "venue": "Away"
+    },
+    {
+      "league": "SPAIN: LaLiga",
+      "datetime": "23.03. 01:30",
+      "home_team": "Real Madrid",
+      "away_team": "Atl. Madrid",
+      "home_score": "3",
+      "away_score": "2",
+      "match_id": "tQIsOmIc",
+      "score": "3-2",
+      "total_goals": 5,
+      "result": "W",
+      "venue": "Home"
+    }
+  ]
+}
