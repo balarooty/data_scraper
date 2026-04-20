@@ -1,0 +1,2 @@
+/Users/balaji/projects/data_scraper/flashscore_scraper.py:386: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
+  dt = dt.replace(/(Pen|Agg|FRO|AET|WO|AOT|Postp\.?|Canc\.?|Abd\.?)$/gi, '').trim();
